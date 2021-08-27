@@ -4,7 +4,7 @@
 - levels with increasing difficulty
 - three player lives
 
-![GIF](https://github.com/roblieblang/space_skirmish/blob/main/gameplayGif.jpg)
+![GIF](https://github.com/roblieblang/space_skirmish/blob/main/gameplayGif.gif)
 
 ![launch screen](https://github.com/roblieblang/space_skirmish/blob/main/launch%20screen.jpg)
 
