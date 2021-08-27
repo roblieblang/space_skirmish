@@ -4,7 +4,7 @@
 - levels with increasing difficulty
 - three player lives
 
-![launch screen[(https://github.com/roblieblang/space_skirmish/launch-screen.jpg)
+![launch screen[(https://github.com/roblieblang/space_skirmish/blob/main/launch%20screen.jpg)
 
 # Controls
 - ARROW keys to move
