@@ -4,6 +4,8 @@
 - levels with increasing difficulty
 - three player lives
 
+![launch screen[(https://github.com/roblieblang/space_skirmish/launch-screen.jpg)
+
 # Controls
 - ARROW keys to move
 - SPACE bar to fire lasers at the descending enemies
