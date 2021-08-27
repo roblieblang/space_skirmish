@@ -10,6 +10,8 @@
 - ARROW keys to move
 - SPACE bar to fire lasers at the descending enemies
 
+![play](https://github.com/roblieblang/space_skirmish/blob/main/gameplay.jpg)
+
 # Potential Additions
 - different enemy types
 - high score tracking
