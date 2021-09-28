@@ -18,4 +18,4 @@
 - different enemy types
 - high score tracking
 - music and sound effects
-- figure out a way to get this running in a web browser
+- playable in browser
